@@ -1,4 +1,4 @@
-# coursera 
+# learn 
 Golang
 
 мое решине задач из курса  
